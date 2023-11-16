@@ -1,0 +1,24 @@
+div-container
+	div-hero
+		div-left (Flex)
+			h2-tag heading: An inspiring design delivered to your inbox every morning
+			p-tag: Our team scouts the internet for the best designs, illustrations and art and delivers a truly inspiring one every day to your inbox
+			b-tag:Show me how it looks
+			div-parent
+				input: email(placeholder: Your -email address) Resigert Now Button
+					h3: Free - Np Spam - No Data Sharing 
+		div right(Image)
+	div-footer
+
+		div-footer-left(flex)
+			ul
+				li(list proerty: none ):
+				Prompt Generator
+				Dweep Dialy
+				All Contributors
+				Your Data On Dweep.io
+				Contribute To Dweep
+		div-footer-right
+			Dweep.io
+			Made with love in India
+			social media icons(linked in instagram)
